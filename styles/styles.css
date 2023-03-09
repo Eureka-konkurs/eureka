@@ -49,8 +49,8 @@
 }
 body {
   font-family: 'play-regular-webfont', cursive, serif;  
-  font-size: 20px;
- padding-top: 20px; 
+  font-size: 15px;
+ padding-top: 5px; 
     background: rgb(217, 228, 250) linear-gradient(to top, #f1da36, #d5f0f8);
 
       
@@ -70,7 +70,7 @@ body {
     }
 
  footer{/*width: 960px;*/
-    height: 40px;
+    height: 25px;
     margin-left: 0%;
     margin-top:  10px;
     margin-right:  0%;
@@ -168,7 +168,7 @@ body {
   .wrapper {
    display: flex;
    flex-direction: row; 
-    height: 550px;
+    height: 600px;
     overflow: auto;}
   .videoblock {
     width:auto; 
