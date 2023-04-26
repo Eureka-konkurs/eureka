@@ -228,7 +228,14 @@ aside{
     width:300px;
   overflow-y: auto;
 }
-
+rightSidebar{
+    display:  block;
+    padding-right: 5px;
+    margin-right: 5px;
+    float: right;
+    width:300px;
+  overflow-y: auto;
+}
 
 /*section {height:400px; 
   overflow-y: auto;
