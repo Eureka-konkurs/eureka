@@ -177,7 +177,7 @@ body {
   background-color: lightcoral;
 }
 main {
-  /*float: right;*/
+  float: right;
   height:auto;
   display: block;
   margin-left: auto;
